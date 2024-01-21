@@ -13,6 +13,8 @@ This robots.txt will not block crawlers that are useful for SEO, but block all o
 
 This robots.txt is taking care of English & Japanese web sites for SEO, not caring Korean(Naver) & Russian(Yandex) web sites.
 
+You can update your robots.txt periodically by synchronizing the content of https://raw.githubusercontent.com/hikarine3/robots.txt/main/robots.txt
+
 You can check update at twitter's thread https://twitter.com/hajimekurita/status/1749052728851181752
 
 
@@ -37,6 +39,10 @@ robots.txtはそのルールに従ってくれるBotに限りますが、クロ�
 
 なお、基本的にこれは、日本語と英語圏を想定したrobots.txtになっています(ロシア・韓国向けには最適化されていません)
 
-更新情報は以下のTwitter検索式で出る形でも流していきます 
+https://raw.githubusercontent.com/hikarine3/robots.txt/main/robots.txt
+
+を定期的にダウンロードして、robots.txtに同期させるという使い方が考えられるかと思います。
+
+なお、更新情報は以下のTwitter検索式で出る形でも流していきます 
 
 https://twitter.com/search?q=%23robotstxt%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1%20from%3Ahikarine3&src=typed_query&f=live
