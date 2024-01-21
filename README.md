@@ -1,4 +1,4 @@
-# Purpose of this robots.txt (English Description)
+# Purpose of this robots.txt
 Allowing crawlers to take content freely will lead to
 
 ・Increasement of site load and cost. User experience will also get worsen.
