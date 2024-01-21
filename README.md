@@ -12,6 +12,8 @@ First of all, let's deal with robots.txt, and then proceed by checking the acces
 
 This robots.txt is generated with the policy of not blocking crawlers that are significant for SEO, but blocking everything that is not.
 
+This robots.txt is considering English & Japanese web sites for SEO.
+
 # このrobots.txtの目的
 クローラーに自由にコンテンツを取らせる事は
 
@@ -29,3 +31,5 @@ robots.txtはそのルールに従ってくれるBotに限りますが、クロ�
 まずはrobots.txtで対応して、それ以上はaccess_logを見ながら、IP領域を禁止していく事で対応していきましょう(AWS等クラウドインフラのIPレンジの禁止が有効です)
 
 このrobots.txtでは、SEO的な有意なクローラーはブロックしないけど、そうでないものは全てブロックするという方針で生成されています。
+
+なお、基本的にこれは、日本語と英語圏を想定したrobots.txtになっています(ロシア・韓国向けには最適化されていません)
