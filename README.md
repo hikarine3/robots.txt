@@ -13,6 +13,10 @@ This robots.txt will not block crawlers that are useful for SEO, but block all o
 
 This robots.txt is taking care of English & Japanese web sites for SEO, not caring Korean(Naver) & Russian(Yandex) web sites.
 
+You can check update at 
+
+https://twitter.com/search?q=%23robotstxt%20from%3Ahajimekurita&src=typed_query&f=live
+
 # このrobots.txtの目的
 クローラーに自由にコンテンツを取らせる事は
 
@@ -32,3 +36,7 @@ robots.txtはそのルールに従ってくれるBotに限りますが、クロ�
 このrobots.txtでは、SEO的な有意なクローラーはブロックしないけど、そうでないものは全てブロックするという方針で生成されています。
 
 なお、基本的にこれは、日本語と英語圏を想定したrobots.txtになっています(ロシア・韓国向けには最適化されていません)
+
+更新情報は以下のTwitter検索式で出る形でも流していきます 
+
+https://twitter.com/search?q=%23robotstxt%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1%20from%3Ahikarine3&src=typed_query&f=live
