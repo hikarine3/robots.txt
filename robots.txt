@@ -170,6 +170,9 @@ Disallow: /
 User-agent: ICCrawler
 Disallow: /
 
+User-Agent: ImagesiftBot 
+Disallow: /
+
 User-agent: ImplisenseBot
 Disallow: /
 
