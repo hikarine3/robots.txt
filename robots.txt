@@ -80,6 +80,9 @@ Disallow: /
 User-agent: Cincraw
 Disallow: /
 
+User-agent: Claude-Web
+Disallow: /
+
 User-agent: Cliqzbot
 Disallow: /
 
@@ -300,6 +303,9 @@ User-agent: rogerbot
 Disallow: /
 
 User-agent: RSS_READER
+Disallow: /
+
+User-agent: PhxBot
 Disallow: /
 
 User-agent: SabsimBot
