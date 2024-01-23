@@ -305,6 +305,7 @@ Disallow: /
 User-agent: RSS_READER
 Disallow: /
 
+# 34.42.98.183
 User-agent: PhxBot
 Disallow: /
 
@@ -323,6 +324,7 @@ Disallow: /
 User-agent: SearchmetricsBot
 Disallow: /
 
+# 135.181.136.229
 User-agent: SeekportBot
 Disallow: /
 
