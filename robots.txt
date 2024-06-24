@@ -272,6 +272,9 @@ Disallow: /
 User-agent: OutfoxBot
 Disallow: /
 
+User-agent: PerplexityBot
+Disallow: /
+
 User-agent: PetalBot
 Disallow: /
 
