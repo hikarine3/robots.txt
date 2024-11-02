@@ -230,6 +230,9 @@ Disallow: /
 User-agent: MegaIndex.ru
 Disallow: /
 
+User-agent: meta-externalagent
+Disallow: /
+
 User-agent: MetaJobBot
 Disallow: /
 
@@ -465,4 +468,3 @@ Disallow: /
 
 User-agent: ZyBorg
 Disallow: /
-
