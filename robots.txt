@@ -238,6 +238,7 @@ Disallow: /
 User-agent: MegaIndex.ru
 Disallow: /
 
+# 173.252.64.0/18
 User-agent: meta-externalagent
 Disallow: /
 
