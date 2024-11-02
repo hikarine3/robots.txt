@@ -32,6 +32,12 @@ Disallow: /
 User-agent: Applebot 
 Disallow: /
 
+User-agent: AwarioRssBot
+Disallow: /
+
+User-agent: AwarioSmartBot
+Disallow: /
+
 User-agent: BacklinkCrawler 
 Disallow: /
 
