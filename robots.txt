@@ -32,9 +32,11 @@ Disallow: /
 User-agent: Applebot 
 Disallow: /
 
+# 65.109.0.0/16
 User-agent: AwarioRssBot
 Disallow: /
 
+# 65.109.0.0/16
 User-agent: AwarioSmartBot
 Disallow: /
 
